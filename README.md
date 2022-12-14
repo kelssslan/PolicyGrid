@@ -1,7 +1,11 @@
 # PolicyGrid
+
 Course: COMP 4766 Introduction to Autonomous Robotics
+
 Topics: Reinforcement learning, policy iteration, policy evaluation, dynamic programming
+
 Professor: Dr. Andrew Vardy https://www.mun.ca/engineering/about/our-people/andrew-vardy/
+
 Additional resources: https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292
 
 A special thanks to Dr.Andrew Vardy for a great semester and also for giving me permission to post this assignment. Unfortunately, I am unable to post the Python file as it will be a violation against MUN's academic integrity. If you have any questions please contact me at klan@mun.ca. All credits to Dr.Vardy for designing the assignment structure. 
