@@ -1,16 +1,10 @@
 # PolicyGrid
 
-Course: COMP 4766 Introduction to Autonomous Robotics
-
 Topics: Reinforcement learning, policy iteration, policy evaluation, dynamic programming
-
-Professor: Dr. Andrew Vardy https://www.mun.ca/engineering/about/our-people/andrew-vardy/
 
 Additional resources: https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292
 
-A special thanks to Dr.Andrew Vardy for a great semester and also for giving me permission to post this assignment. Unfortunately, I am unable to post the Python file as it will be a violation against MUN's academic integrity. If you have any questions please contact me at klan@mun.ca. All credits to Dr.Vardy for designing the assignment structure. 
-
-Assignment set up: The set of possible actions from all states is {up, down, right} (left is not available).  While these actions are available in all states, they do not always affect the robot's state.  For example, in state d the "right" action can be executed but the robot will remain in state d.  The situation is similar at the borders, for example in state f executing "down" leaves the robot in state f.  Our model of this system is deterministic.  This means that the probabilities for all state transitions are either 0 or 1.
+The set of possible actions from all states is {up, down, right} (left is not available).  While these actions are available in all states, they do not always affect the robot's state.  For example, in state d the "right" action can be executed but the robot will remain in state d.  The situation is similar at the borders, for example in state f executing "down" leaves the robot in state f.  Our model of this system is deterministic.  This means that the probabilities for all state transitions are either 0 or 1.
 
 Executing any action in state c will result in a reward of +10.  Executing any action in any other state gives a reward of 0.
 
