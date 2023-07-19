@@ -1,4 +1,5 @@
 # PolicyGrid
+Introduction to Autonomous Robotics
 
 Topics: Reinforcement learning, policy iteration, policy evaluation, dynamic programming
 
